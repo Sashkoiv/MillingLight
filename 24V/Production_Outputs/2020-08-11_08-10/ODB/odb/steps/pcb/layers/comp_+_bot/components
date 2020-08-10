@@ -1,0 +1,12 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 2.5275589 0.2 90 N CN1 CN_1X3F ;0=2,1=0.5433
+TOP 0 2.5275589 0.2 90 N 1 0 CN1-1
+TOP 1 2.5275589 0 90 N 30 0 CN1-2
+TOP 2 2.5275589 -0.2 90 N 1 1 CN1-3
+#
