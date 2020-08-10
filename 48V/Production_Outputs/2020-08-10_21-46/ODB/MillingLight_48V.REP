@@ -1,0 +1,260 @@
+*************************************************************
+FileName = MillingLight_48V.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\matrix\matrix
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\profile
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\stephdr
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\steps\pcb\eda\data
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_86\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_258\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_70\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_242\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_54\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_226\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_38\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_210\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_22\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_194\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_6\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_178\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_350\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_162\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_326\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_138\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_310\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_122\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_294\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_106\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_278\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_262\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_74\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_246\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_58\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_230\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_42\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_206\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_18\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_190\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_2\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_174\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_346\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_158\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_330\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_142\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_314\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_126\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_298\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_110\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect94.4882x62.9921_282\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect37.4016x55.1181_274\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect37.4016x55.1181_94\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect37.4016x55.1181_34\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect37.4016x55.1181_214\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect37.4016x55.1181_154\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect37.4016x55.1181_334\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_86\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_258\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_70\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_242\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_54\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_226\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_38\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_210\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_22\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_194\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_6\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_178\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_350\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_162\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_326\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_138\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_310\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_122\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_294\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_106\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_278\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_262\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_74\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_246\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_58\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_230\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_42\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_206\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_18\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_190\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_2\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_174\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_346\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_158\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_330\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_142\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_314\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_126\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_298\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_110\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect102.4882x70.9921_282\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect45.4016x63.1181_274\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect45.4016x63.1181_94\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect45.4016x63.1181_34\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect45.4016x63.1181_214\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect45.4016x63.1181_154\features
+
+Generated File : D:\MillingLight\48V\Production_Outputs\2020-08-10_21-47\ODB\odb\symbols\rect45.4016x63.1181_334\features
+

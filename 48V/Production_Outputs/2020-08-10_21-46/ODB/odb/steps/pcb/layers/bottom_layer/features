@@ -1,0 +1,29 @@
+#Layer_Physical_Order=2
+#Layer_Color=16711680
+#
+#Feature symbol names
+#
+$0 r177.1654
+$1 r102.3622
+
+#
+#Feature attribute names
+#
+@0 .geometry
+@1 .pad_usage
+
+#
+#Feature attribute text strings
+#
+&0 Pad_Simple_X177.1654Y177.1654H137.7953C177.7953
+&1 Pad_Simple_X102.3622Y102.3622H62.9921C102.9921
+
+#
+#Layer features
+#
+P -0.8017072 1.6437434 0 P 0 0 ;0=0,1=0
+P -1.0305422 -1.5188144 0 P 0 0 ;0=0,1=0
+P 1.8309621 -0.1280333 0 P 0 0 ;0=0,1=0
+P 2.5275589 0 1 P 0 0 ;0=1,1=0
+P 2.5275589 -0.2 1 P 0 0 ;0=1,1=0
+P 2.5275589 0.2 1 P 0 0 ;0=1,1=0
