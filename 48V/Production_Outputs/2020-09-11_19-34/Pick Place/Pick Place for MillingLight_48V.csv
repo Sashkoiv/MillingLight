@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+D:\MillingLight\48V\Production_Outputs\2020-09-11_19-42\Pick Place\Pick Place for MillingLight_48V.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/09/20
+Time:       19:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C1","CAP","TopLayer","CAPC3216X18N","55.0000mm","-4.2500mm","90","CAP, MLCC, X5R, 10UF, 50V, 1206"
+"CN1","CN_1X3F","BottomLayer","CN_WURTH_691216510003","64.2000mm","0.0000mm","270","WURTH ELEKTRONIK 691216510003 - T/BLOCK, 5,08mm 3W"
+"D1","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","43.5080mm","-9.2479mm","348.000000953674","High Luminous PLCC2 Power Top SMD LED"
+"D2","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","43.4326mm","-15.8082mm","159.999998092651","High Luminous PLCC2 Power Top SMD LED"
+"D3","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","39.2735mm","-20.8821mm","332","High Luminous PLCC2 Power Top SMD LED"
+"D4","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","37.3928mm","-27.1674mm","144.000003814697","High Luminous PLCC2 Power Top SMD LED"
+"D5","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","31.9962mm","-30.8984mm","316","High Luminous PLCC2 Power Top SMD LED"
+"D6","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","28.4427mm","-36.4050mm","128","High Luminous PLCC2 Power Top SMD LED"
+"D7","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","22.2400mm","-38.5208mm","300.000003814697","High Luminous PLCC2 Power Top SMD LED"
+"D8","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","17.3143mm","-42.8544mm","111.999992370605","High Luminous PLCC2 Power Top SMD LED"
+"D9","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","10.7607mm","-43.1588mm","284","High Luminous PLCC2 Power Top SMD LED"
+"D10","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","4.8313mm","-45.9668mm","96","High Luminous PLCC2 Power Top SMD LED"
+"D11","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-1.5523mm","-44.4529mm","268","High Luminous PLCC2 Power Top SMD LED"
+"D12","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-8.0260mm","-45.5178mm","80","High Luminous PLCC2 Power Top SMD LED"
+"D13","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-13.7451mm","-42.3030mm","252.000007629395","High Luminous PLCC2 Power Top SMD LED"
+"D14","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-20.2615mm","-41.5423mm","64","High Luminous PLCC2 Power Top SMD LED"
+"D15","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-29.7629mm","-33.0551mm","228","High Luminous PLCC2 Power Top SMD LED"
+"D16","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-35.4066mm","-29.7096mm","40","High Luminous PLCC2 Power Top SMD LED"
+"D17","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-37.7212mm","-23.5708mm","212","High Luminous PLCC2 Power Top SMD LED"
+"D18","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-42.2241mm","-18.7994mm","24","High Luminous PLCC2 Power Top SMD LED"
+"D19","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-42.7569mm","-12.2604mm","196","High Luminous PLCC2 Power Top SMD LED"
+"D20","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-45.7702mm","-6.4326mm","8","High Luminous PLCC2 Power Top SMD LED"
+"D21","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-44.4800mm","0.0000mm","180","High Luminous PLCC2 Power Top SMD LED"
+"D22","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-45.7702mm","6.4326mm","352","High Luminous PLCC2 Power Top SMD LED"
+"D23","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-42.7569mm","12.2604mm","164","High Luminous PLCC2 Power Top SMD LED"
+"D24","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-42.2241mm","18.7994mm","336","High Luminous PLCC2 Power Top SMD LED"
+"D25","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-37.7212mm","23.5708mm","148","High Luminous PLCC2 Power Top SMD LED"
+"D26","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-35.4066mm","29.7096mm","320","High Luminous PLCC2 Power Top SMD LED"
+"D27","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-29.7629mm","33.0551mm","132","High Luminous PLCC2 Power Top SMD LED"
+"D28","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-25.8459mm","38.3181mm","303.999992370605","High Luminous PLCC2 Power Top SMD LED"
+"R1","RES","TopLayer","RESC2012X60N","42.4235mm","-2.9536mm","266.01744556427","RESISTOR, 0805, 10R, 1%, SMD"
+"R3","RES","TopLayer","RESC2012X60N","-23.7970mm","-35.2805mm","146.000007629395","RESISTOR, 0805, 10R, 1%, SMD"
+"D29","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-13.7451mm","42.3030mm","107.999992370605","High Luminous PLCC2 Power Top SMD LED"
+"D30","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-8.0260mm","45.5178mm","280","High Luminous PLCC2 Power Top SMD LED"
+"D31","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","-1.5523mm","44.4529mm","92","High Luminous PLCC2 Power Top SMD LED"
+"D32","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","4.8313mm","45.9668mm","264","High Luminous PLCC2 Power Top SMD LED"
+"D33","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","10.7607mm","43.1588mm","76","High Luminous PLCC2 Power Top SMD LED"
+"D34","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","17.3143mm","42.8544mm","248.000007629395","High Luminous PLCC2 Power Top SMD LED"
+"D35","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","22.2400mm","38.5208mm","59.9999961853027","High Luminous PLCC2 Power Top SMD LED"
+"D36","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","28.4559mm","36.4219mm","232","High Luminous PLCC2 Power Top SMD LED"
+"D37","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","31.9962mm","30.8984mm","44","High Luminous PLCC2 Power Top SMD LED"
+"D38","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","37.3928mm","27.1674mm","215.999996185303","High Luminous PLCC2 Power Top SMD LED"
+"D39","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","39.2735mm","20.8821mm","28","High Luminous PLCC2 Power Top SMD LED"
+"D40","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","43.4326mm","15.8082mm","200.000001907349","High Luminous PLCC2 Power Top SMD LED"
+"D41","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","43.5080mm","9.2479mm","11.9999990463257","High Luminous PLCC2 Power Top SMD LED"
+"D42","DIO_LED","TopLayer","DIO_Kento_KT-SMD3528-W","46.1074mm","3.2241mm","183.999998569489","High Luminous PLCC2 Power Top SMD LED"
+"R5","RES","TopLayer","RESC2012X60N","-18.5650mm","38.0638mm","26","RESISTOR, 0805, 10R, 1%, SMD"
+"C2","CAP","TopLayer","CAPC2012X125N","55.0000mm","4.2500mm","270","X7R 10% 0805"
